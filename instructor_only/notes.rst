@@ -24,3 +24,6 @@ Process for defining semester-long group work:
 #. detailed design during class time
 
    continue....
+
+   #. data model design should be oriented around the most important code, e.g. matrix building
+      
